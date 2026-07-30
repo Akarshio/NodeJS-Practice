@@ -1,0 +1,5 @@
+get method --> by path mtlb client side rendring 
+post method -->  
+put method  ---> data override karna by id
+patch method  --> specific data edit karna by id
+delete method  -- > delete karna by id 
